@@ -28,15 +28,15 @@
 
         <section class="portfolio">
             <div class="container">
-                <a href="http://www.indiosnativosvalvulados.com.br" class="job">
+                <a href="http://www.indiosnativosvalvulados.com.br" target="_blank" class="job">
                   <figure><img src="assets/images/jobs/indios.jpg" alt="índios nativos valvulados"></figure>  
                   <figcaption>índios nativos valvulados</figcaption>
                 </a>
-                <a href="http://www.pepperbox.com.br" class="job">
+                <a href="http://www.pepperbox.com.br" target="_blank" class="job">
                   <figure><img src="assets/images/jobs/pepper.jpg" alt="pepper box"></figure>  
                   <figcaption>pepper box</figcaption>
                 </a>
-                <a href="http://www.pinusbr.com.br" class="job">
+                <a href="http://www.pinusbr.com.br" target="_blank" class="job">
                   <figure><img src="assets/images/jobs/pinusbr.jpg" alt="pepper box"></figure>  
                   <figcaption>pepper box</figcaption>
                 </a>
@@ -48,7 +48,12 @@
                 <section class="oquesei">
                         <h1>o que sei:</h1>
                         <div>
-                            <img src="assets/images/html5.png" alt="html5">
+                            <div class="bubbled">
+                                <img src="assets/images/html5.png" alt="html5">
+                                <div class="bubble">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                </div>
+                            </div>
                             <img src="assets/images/js.png" alt="js">
                             <img src="assets/images/css3.png" alt="css3">
                             <img src="assets/images/sass.png" alt="sass">
@@ -77,17 +82,17 @@
             <div class="container">
                 <h1>onde estou:</h1>
                 <div>
-                    <a href=""><?php include 'assets/images/github.svg'; ?></a>
+                    <a href="https://github.com/eduruiz" target="_blank"><?php include 'assets/images/github.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/github.png" alt="github"></a> -->
-                    <a href=""><?php include 'assets/images/bitbucket.svg'; ?></a>
+                    <a href="https://bitbucket.org/eduruiz" target="_blank"><?php include 'assets/images/bitbucket.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/bitbucket" alt="bitbucket"></a> -->
-                    <a href=""><?php include 'assets/images/stackoverflow.svg'; ?></a>
+                    <a href="http://stackoverflow.com/users/1338852/edu-ruiz" target="_blank"><?php include 'assets/images/stackoverflow.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/stackoverflow" alt="stackoverflow"></a> -->
-                    <a href=""><?php include 'assets/images/skype.svg'; ?></a>
+                    <a href="skype:edu.m.ruiz?add"><?php include 'assets/images/skype.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/skype" alt="skype"></a> -->
-                    <a href=""><?php include 'assets/images/email.svg'; ?></a>
+                    <a href="mailto:contato@eduruiz.com.br"><?php include 'assets/images/email.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/email" alt="email"></a> -->
-                    <a href=""><?php include 'assets/images/tel.svg'; ?></a>
+                    <a href="tel:+5511981426373"><?php include 'assets/images/tel.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/tel" alt="telefone"></a> -->
                 </div>
             </div>

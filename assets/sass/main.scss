@@ -145,7 +145,17 @@ $sinkin_sans100: 'sinkin_sans100', Helvetica, Arial;
 
 $sinkin_sans400: 'sinkin_sans400', Helvetica, Arial; 
 
-
+@mixin breakpoint($point) {
+    @if $point == papa-bear {
+        @media (max-width: 959px) { @content; }
+    }
+    @else if $point == mama-bear {
+        @media (max-width: 767px) { @content; }
+    }
+    @else if $point == baby-bear {
+        @media (max-width: 480px)  { @content; }
+    }
+}
 
 
 @mixin rowMachine($numPerRow, $margin) {
@@ -196,15 +206,65 @@ body {
     display: block;
     margin: 30px auto;
     background: url("../images/logo.png");
+    background-repeat: no-repeat;
+}
+
+.bubbled {
+    position: relative;
+    float: left;
+}
+
+.bubbled:hover {
+    // .bubble {
+    //     display: block;
+    // }
+}
+
+.bubble {
+    display: none;
+    position: absolute;
+    top: -110%;
 }
 
 .portfolio {
-    a {
+    a.job {
         float: left;
+        position: relative;
+        z-index: 2;
         text-align: center;
         text-transform: uppercase;
+        transition: all .3s;
+
+        &:hover {
+            transform: translate(5px, 5px);
+        }
+
+        &:hover:after{
+            transform: translate(-5px, -5px);
+        }
+        
+        &:after {
+            content: " ";
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            position: absolute;
+            right: -10px;
+            bottom: -10px;
+            background-color: lighten($blue, 5%);
+            background-image: url("../images/bg-lines.png");
+            transition: transform .3s;
+        }
 
         @include rowMachine(3, 2%);
+
+        @include breakpoint(mama-bear) {
+            @include rowMachine(1, 0);
+            
+            &:nth-child(n) {
+                margin-bottom: 20px;
+            }
+        }
 
         figcaption {
             padding: 10px 0;
@@ -215,6 +275,11 @@ body {
 }
 
 .oquesei {
+
+    @include breakpoint(baby-bear) {
+        text-align: center;
+    }
+
     h1 { color: $light-blue; }
     
     img {
@@ -223,8 +288,18 @@ body {
         margin-left: 84px;
 
         &:first-child{ margin-left: 0; }
-        // float: left;
-        // @include rowMachine(6, 10%);
+
+        @include breakpoint(papa-bear) {
+            margin-left: 30px;
+        }
+
+        @include breakpoint(mama-bear) {
+            margin-bottom: 40px;
+        }
+
+        @include breakpoint(baby-bear) {
+            display: inline;
+        }
     }
 }
 
@@ -233,6 +308,21 @@ body {
     h1 { color: $orange; }
     img {
         margin-left: 103px;
+
+        @include breakpoint(papa-bear) {
+            margin-left: 52px;
+        }
+
+        @include breakpoint(mama-bear) {
+            &:nth-child(4n) { margin-left: 0; }
+        }
+
+        @include breakpoint(baby-bear) {
+            width: 68px;
+            display: inline;
+            margin-left: 23px;
+            text-align: center;
+        }
     }
 }
 
@@ -244,6 +334,14 @@ body {
     a {
         float: left;
         @include rowMachine(6, 10%);
+
+        @include breakpoint(mama-bear) {
+            @include rowMachine(3, 10%);
+        }
+
+        @include breakpoint(baby-bear) {
+            @include rowMachine(3, 15%);
+        }
     }
 
     svg {

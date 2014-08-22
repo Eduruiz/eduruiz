@@ -624,7 +624,7 @@ img {
 ================================================== */
 /* line 31, ../sass/_skeleton.scss */
 .container {
-  width: 940px; }
+  width: 1040px; }
 
 /* line 32, ../sass/_skeleton.scss */
 .column, .columns {
@@ -643,67 +643,67 @@ img {
 /* Base Grid */
 /* line 39, ../sass/_skeleton.scss */
 .container .one.column {
-  width: 46.75px; }
+  width: 53px; }
 
 /* line 40, ../sass/_skeleton.scss */
 .container .two.columns {
-  width: 105.5px; }
+  width: 118px; }
 
 /* line 41, ../sass/_skeleton.scss */
 .container .three.columns {
-  width: 164.25px; }
+  width: 183px; }
 
 /* line 42, ../sass/_skeleton.scss */
 .container .four.columns {
-  width: 223px; }
+  width: 248px; }
 
 /* line 43, ../sass/_skeleton.scss */
 .container .five.columns {
-  width: 281.75px; }
+  width: 313px; }
 
 /* line 44, ../sass/_skeleton.scss */
 .container .six.columns {
-  width: 340.5px; }
+  width: 378px; }
 
 /* line 45, ../sass/_skeleton.scss */
 .container .seven.columns {
-  width: 399.25px; }
+  width: 443px; }
 
 /* line 46, ../sass/_skeleton.scss */
 .container .eight.columns {
-  width: 458px; }
+  width: 508px; }
 
 /* line 47, ../sass/_skeleton.scss */
 .container .nine.columns {
-  width: 516.75px; }
+  width: 573px; }
 
 /* line 48, ../sass/_skeleton.scss */
 .container .ten.columns {
-  width: 575.5px; }
+  width: 638px; }
 
 /* line 49, ../sass/_skeleton.scss */
 .container .eleven.columns {
-  width: 634.25px; }
+  width: 703px; }
 
 /* line 50, ../sass/_skeleton.scss */
 .container .twelve.columns {
-  width: 693px; }
+  width: 768px; }
 
 /* line 51, ../sass/_skeleton.scss */
 .container .thirteen.columns {
-  width: 751.75px; }
+  width: 833px; }
 
 /* line 52, ../sass/_skeleton.scss */
 .container .fourteen.columns {
-  width: 810.5px; }
+  width: 898px; }
 
 /* line 53, ../sass/_skeleton.scss */
 .container .fifteen.columns {
-  width: 869.25px; }
+  width: 963px; }
 
 /* line 54, ../sass/_skeleton.scss */
 .container .sixteen.columns {
-  width: 928px; }
+  width: 1028px; }
 
 /* line 56, ../sass/_skeleton.scss */
 .container .one-fifth.column {
@@ -711,72 +711,72 @@ img {
 
 /* line 58, ../sass/_skeleton.scss */
 .container .one-third.column {
-  width: 301.33333px; }
+  width: 334.66667px; }
 
 /* line 59, ../sass/_skeleton.scss */
 .container .two-thirds.column {
-  width: 614.66667px; }
+  width: 681.33333px; }
 
 /* Offsets */
 /* line 62, ../sass/_skeleton.scss */
 .container .offset-by-one {
-  padding-left: 58.75px; }
+  padding-left: 65px; }
 
 /* line 63, ../sass/_skeleton.scss */
 .container .offset-by-two {
-  padding-left: 117.5px; }
+  padding-left: 130px; }
 
 /* line 64, ../sass/_skeleton.scss */
 .container .offset-by-three {
-  padding-left: 176.25px; }
+  padding-left: 195px; }
 
 /* line 65, ../sass/_skeleton.scss */
 .container .offset-by-four {
-  padding-left: 235px; }
+  padding-left: 260px; }
 
 /* line 66, ../sass/_skeleton.scss */
 .container .offset-by-five {
-  padding-left: 293.75px; }
+  padding-left: 325px; }
 
 /* line 67, ../sass/_skeleton.scss */
 .container .offset-by-six {
-  padding-left: 352.5px; }
+  padding-left: 390px; }
 
 /* line 68, ../sass/_skeleton.scss */
 .container .offset-by-seven {
-  padding-left: 411.25px; }
+  padding-left: 455px; }
 
 /* line 69, ../sass/_skeleton.scss */
 .container .offset-by-eight {
-  padding-left: 470px; }
+  padding-left: 520px; }
 
 /* line 70, ../sass/_skeleton.scss */
 .container .offset-by-nine {
-  padding-left: 528.75px; }
+  padding-left: 585px; }
 
 /* line 71, ../sass/_skeleton.scss */
 .container .offset-by-ten {
-  padding-left: 587.5px; }
+  padding-left: 650px; }
 
 /* line 72, ../sass/_skeleton.scss */
 .container .offset-by-eleven {
-  padding-left: 646.25px; }
+  padding-left: 715px; }
 
 /* line 73, ../sass/_skeleton.scss */
 .container .offset-by-twelve {
-  padding-left: 705px; }
+  padding-left: 780px; }
 
 /* line 74, ../sass/_skeleton.scss */
 .container .offset-by-thirteen {
-  padding-left: 763.75px; }
+  padding-left: 845px; }
 
 /* line 75, ../sass/_skeleton.scss */
 .container .offset-by-fourteen {
-  padding-left: 822.5px; }
+  padding-left: 910px; }
 
 /* line 76, ../sass/_skeleton.scss */
 .container .offset-by-fifteen {
-  padding-left: 940px; }
+  padding-left: 1040px; }
 
 /* #Tablet (Portrait)
 ================================================== */
@@ -1089,7 +1089,7 @@ or wrap each row of columns in a <div class="row"> */
 /*
  * typo
  */
-/* line 167, ../sass/main.scss */
+/* line 177, ../sass/main.scss */
 h1 {
   display: block;
   margin: 0;
@@ -1098,13 +1098,13 @@ h1 {
   font-size: 50px;
   font-family: "sinkin_sans100", Helvetica, Arial; }
 
-/* line 176, ../sass/main.scss */
+/* line 186, ../sass/main.scss */
 a {
   font-size: 12px;
   color: white;
   text-decoration: none; }
 
-/* line 182, ../sass/main.scss */
+/* line 192, ../sass/main.scss */
 body {
   border-top: 5px solid #fe4d21;
   background: #343446; }
@@ -1112,77 +1112,180 @@ body {
 /*
  * general
  */
-/* line 191, ../sass/main.scss */
+/* line 201, ../sass/main.scss */
 .white {
   background-color: white;
   padding-bottom: 60px; }
 
-/* line 193, ../sass/main.scss */
+/* line 203, ../sass/main.scss */
 .logo {
   width: 258px;
   height: 110px;
   display: block;
   margin: 30px auto;
-  background: url("../images/logo.png"); }
+  background: url("../images/logo.png");
+  background-repeat: no-repeat; }
 
-/* line 202, ../sass/main.scss */
-.portfolio a {
+/* line 212, ../sass/main.scss */
+.bubbled {
+  position: relative;
+  float: left; }
+
+/* line 223, ../sass/main.scss */
+.bubble {
+  display: none;
+  position: absolute;
+  top: -110%; }
+
+/* line 230, ../sass/main.scss */
+.portfolio a.job {
   float: left;
+  position: relative;
+  z-index: 2;
   text-align: center;
   text-transform: uppercase;
+  transition: all .3s;
   width: 32%; }
-  /* line 153, ../sass/main.scss */
-  .portfolio a:nth-child(n) {
+  /* line 238, ../sass/main.scss */
+  .portfolio a.job:hover {
+    transform: translate(5px, 5px); }
+  /* line 242, ../sass/main.scss */
+  .portfolio a.job:hover:after {
+    transform: translate(-5px, -5px); }
+  /* line 246, ../sass/main.scss */
+  .portfolio a.job:after {
+    content: " ";
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    position: absolute;
+    right: -10px;
+    bottom: -10px;
+    background-color: #3f3f55;
+    background-image: url("../images/bg-lines.png");
+    transition: transform .3s; }
+  /* line 163, ../sass/main.scss */
+  .portfolio a.job:nth-child(n) {
     margin-bottom: 2%;
     margin-right: 2%; }
-  /* line 157, ../sass/main.scss */
-  .portfolio a:nth-child(3n) {
+  /* line 167, ../sass/main.scss */
+  .portfolio a.job:nth-child(3n) {
     margin-right: 0;
     margin-bottom: 0; }
-  /* line 209, ../sass/main.scss */
-  .portfolio a figcaption {
+  @media (max-width: 767px) {
+    /* line 230, ../sass/main.scss */
+    .portfolio a.job {
+      width: 100%; }
+      /* line 163, ../sass/main.scss */
+      .portfolio a.job:nth-child(n) {
+        margin-bottom: 0;
+        margin-right: 0; }
+      /* line 167, ../sass/main.scss */
+      .portfolio a.job:nth-child(1n) {
+        margin-right: 0;
+        margin-bottom: 0; }
+      /* line 264, ../sass/main.scss */
+      .portfolio a.job:nth-child(n) {
+        margin-bottom: 20px; } }
+  /* line 269, ../sass/main.scss */
+  .portfolio a.job figcaption {
     padding: 10px 0;
     color: white;
     background: #292836; }
 
-/* line 218, ../sass/main.scss */
+@media (max-width: 480px) {
+  /* line 277, ../sass/main.scss */
+  .oquesei, .oqueuso {
+    text-align: center; } }
+/* line 283, ../sass/main.scss */
 .oquesei h1, .oqueuso h1 {
   color: #7bb1fa; }
-/* line 220, ../sass/main.scss */
+/* line 285, ../sass/main.scss */
 .oquesei img, .oqueuso img {
   display: inline-block;
   width: auto;
   margin-left: 84px; }
-  /* line 225, ../sass/main.scss */
+  /* line 290, ../sass/main.scss */
   .oquesei img:first-child, .oqueuso img:first-child {
     margin-left: 0; }
+  @media (max-width: 959px) {
+    /* line 285, ../sass/main.scss */
+    .oquesei img, .oqueuso img {
+      margin-left: 30px; } }
+  @media (max-width: 767px) {
+    /* line 285, ../sass/main.scss */
+    .oquesei img, .oqueuso img {
+      margin-bottom: 40px; } }
+  @media (max-width: 480px) {
+    /* line 285, ../sass/main.scss */
+    .oquesei img, .oqueuso img {
+      display: inline; } }
 
-/* line 233, ../sass/main.scss */
+/* line 308, ../sass/main.scss */
 .oqueuso h1 {
   color: #fe4d21; }
-/* line 234, ../sass/main.scss */
+/* line 309, ../sass/main.scss */
 .oqueuso img {
   margin-left: 103px; }
+  @media (max-width: 959px) {
+    /* line 309, ../sass/main.scss */
+    .oqueuso img {
+      margin-left: 52px; } }
+  @media (max-width: 767px) {
+    /* line 317, ../sass/main.scss */
+    .oqueuso img:nth-child(4n) {
+      margin-left: 0; } }
+  @media (max-width: 480px) {
+    /* line 309, ../sass/main.scss */
+    .oqueuso img {
+      width: 68px;
+      display: inline;
+      margin-left: 23px;
+      text-align: center; } }
 
-/* line 239, ../sass/main.scss */
+/* line 329, ../sass/main.scss */
 .ondeestou {
   background: #fe4d21; }
-  /* line 242, ../sass/main.scss */
+  /* line 332, ../sass/main.scss */
   .ondeestou h1 {
     color: white; }
-  /* line 244, ../sass/main.scss */
+  /* line 334, ../sass/main.scss */
   .ondeestou a {
     float: left;
     width: 8.33333%; }
-    /* line 153, ../sass/main.scss */
+    /* line 163, ../sass/main.scss */
     .ondeestou a:nth-child(n) {
       margin-bottom: 10%;
       margin-right: 10%; }
-    /* line 157, ../sass/main.scss */
+    /* line 167, ../sass/main.scss */
     .ondeestou a:nth-child(6n) {
       margin-right: 0;
       margin-bottom: 0; }
-  /* line 249, ../sass/main.scss */
+    @media (max-width: 767px) {
+      /* line 334, ../sass/main.scss */
+      .ondeestou a {
+        width: 26.66667%; }
+        /* line 163, ../sass/main.scss */
+        .ondeestou a:nth-child(n) {
+          margin-bottom: 10%;
+          margin-right: 10%; }
+        /* line 167, ../sass/main.scss */
+        .ondeestou a:nth-child(3n) {
+          margin-right: 0;
+          margin-bottom: 0; } }
+    @media (max-width: 480px) {
+      /* line 334, ../sass/main.scss */
+      .ondeestou a {
+        width: 23.33333%; }
+        /* line 163, ../sass/main.scss */
+        .ondeestou a:nth-child(n) {
+          margin-bottom: 15%;
+          margin-right: 15%; }
+        /* line 167, ../sass/main.scss */
+        .ondeestou a:nth-child(3n) {
+          margin-right: 0;
+          margin-bottom: 0; } }
+  /* line 347, ../sass/main.scss */
   .ondeestou svg {
     width: 100%;
     height: 120px;
@@ -1194,7 +1297,7 @@ body {
 /*
  * Image replacement
  */
-/* line 278, ../sass/main.scss */
+/* line 376, ../sass/main.scss */
 .ir {
   background-color: transparent;
   border: 0;
@@ -1202,7 +1305,7 @@ body {
   /* IE 6/7 fallback */
   *text-indent: -9999px; }
 
-/* line 286, ../sass/main.scss */
+/* line 384, ../sass/main.scss */
 .ir:before {
   content: "";
   display: block;
@@ -1212,7 +1315,7 @@ body {
 /*
  * Hide from both screenreaders and browsers: h5bp.com/u
  */
-/* line 297, ../sass/main.scss */
+/* line 395, ../sass/main.scss */
 .hidden {
   display: none !important;
   visibility: hidden; }
@@ -1220,7 +1323,7 @@ body {
 /*
  * Hide only visually, but have it available for screenreaders: h5bp.com/v
  */
-/* line 306, ../sass/main.scss */
+/* line 404, ../sass/main.scss */
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -1235,7 +1338,7 @@ body {
  * Extends the .visuallyhidden class to allow the element to be focusable
  * when navigated to via the keyboard: h5bp.com/p
  */
-/* line 322, ../sass/main.scss */
+/* line 420, ../sass/main.scss */
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
   clip: auto;
@@ -1248,7 +1351,7 @@ body {
 /*
  * Hide visually and from screenreaders, but maintain layout
  */
-/* line 336, ../sass/main.scss */
+/* line 434, ../sass/main.scss */
 .invisible {
   visibility: hidden; }
 
@@ -1263,7 +1366,7 @@ body {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
-/* line 352, ../sass/main.scss */
+/* line 450, ../sass/main.scss */
 .clearfix:before,
 .clearfix:after {
   content: " ";
@@ -1271,7 +1374,7 @@ body {
   display: table;
   /* 2 */ }
 
-/* line 358, ../sass/main.scss */
+/* line 456, ../sass/main.scss */
 .clearfix:after {
   clear: both; }
 
@@ -1279,7 +1382,7 @@ body {
  * For IE 6/7 only
  * Include this rule to trigger hasLayout and contain floats.
  */
-/* line 367, ../sass/main.scss */
+/* line 465, ../sass/main.scss */
 .clearfix {
   *zoom: 1; }
 
@@ -1297,7 +1400,7 @@ body {
    Inlined to avoid required HTTP connection: h5bp.com/r
    ========================================================================== */
 @media print {
-  /* line 394, ../sass/main.scss */
+  /* line 492, ../sass/main.scss */
   * {
     background: transparent !important;
     color: #000 !important;
@@ -1305,58 +1408,58 @@ body {
     box-shadow: none !important;
     text-shadow: none !important; }
 
-  /* line 401, ../sass/main.scss */
+  /* line 499, ../sass/main.scss */
   a,
   a:visited {
     text-decoration: underline; }
 
-  /* line 406, ../sass/main.scss */
+  /* line 504, ../sass/main.scss */
   a[href]:after {
     content: " (" attr(href) ")"; }
 
-  /* line 410, ../sass/main.scss */
+  /* line 508, ../sass/main.scss */
   abbr[title]:after {
     content: " (" attr(title) ")"; }
 
   /*
    * Don't show links for images, or javascript/internal links
    */
-  /* line 418, ../sass/main.scss */
+  /* line 516, ../sass/main.scss */
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: ""; }
 
-  /* line 424, ../sass/main.scss */
+  /* line 522, ../sass/main.scss */
   pre,
   blockquote {
     border: 1px solid #999;
     page-break-inside: avoid; }
 
-  /* line 430, ../sass/main.scss */
+  /* line 528, ../sass/main.scss */
   thead {
     display: table-header-group;
     /* h5bp.com/t */ }
 
-  /* line 434, ../sass/main.scss */
+  /* line 532, ../sass/main.scss */
   tr,
   img {
     page-break-inside: avoid; }
 
-  /* line 439, ../sass/main.scss */
+  /* line 537, ../sass/main.scss */
   img {
     max-width: 100% !important; }
 
   @page {
     margin: 0.5cm; }
-  /* line 447, ../sass/main.scss */
+  /* line 545, ../sass/main.scss */
   p,
   h2,
   h3 {
     orphans: 3;
     widows: 3; }
 
-  /* line 454, ../sass/main.scss */
+  /* line 552, ../sass/main.scss */
   h2,
   h3 {
     page-break-after: avoid; } }
