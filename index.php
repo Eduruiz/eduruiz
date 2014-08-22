@@ -7,7 +7,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Eduruiz</title>
-        <meta name="description" content="">
+        <meta name="description" content="Minha página de portfólio, aqui você confere alguns dos meus trabalhos recentes com desenvolvimento">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
