@@ -53,7 +53,7 @@
                 </a>
                 <a href="http://www.pinusbr.com.br" target="_blank" class="job">
                   <figure><img src="assets/images/jobs/pinusbr.jpg" alt="pepper box"></figure>  
-                  <figcaption>pepper box</figcaption>
+                  <figcaption>pinus laboratório</figcaption>
                 </a>
             </div>
         </section>
