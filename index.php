@@ -88,10 +88,10 @@
                         <div>
                             <img src="assets/images/sublime.png" alt="sublime text">
                             <img src="assets/images/codekit.png" alt="codekit">
-                            <img src="assets/images/grunt.png" alt="grunt js">
                             <img src="assets/images/codeigniter.png" alt="codeigniter">
                             <img src="assets/images/sequelpro.png" alt="sequel pro">
                             <img src="assets/images/transmit.png" alt="transmit app">
+                            <img src="assets/images/gulp.png" alt="gulp js">
                         </div>
                 </section>
             </div>
