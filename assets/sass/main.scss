@@ -256,7 +256,7 @@ body {
             transition: transform .3s;
         }
 
-        @include rowMachine(3, 2%);
+        @include rowMachine(4, 2%);
 
         @include breakpoint(mama-bear) {
             @include rowMachine(1, 0);
