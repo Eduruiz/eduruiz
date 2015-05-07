@@ -10,7 +10,7 @@
         <meta name="description" content="Minha página de portfólio, aqui você confere alguns dos meus trabalhos recentes com desenvolvimento">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="google-site-verification" content="NjpPrtT7_G8brOSLyggPru8qcZ2aci0K5QbFyCcmatk" />
-        
+
         <!-- tons of favicons to work all over devices-->
         <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
@@ -29,7 +29,7 @@
         <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
         <link rel="stylesheet" href="assets/css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="assets/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
