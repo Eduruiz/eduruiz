@@ -88,7 +88,7 @@
                         <h1>o que uso:</h1>
                         <div>
                             <img src="assets/images/sublime.png" alt="sublime text">
-                            <img src="assets/images/codekit.png" alt="codekit">
+                            <img src="assets/images/vim.svg" alt="vim">
                             <img src="assets/images/codeigniter.png" alt="codeigniter">
                             <img src="assets/images/sequelpro.png" alt="sequel pro">
                             <img src="assets/images/transmit.png" alt="transmit app">
@@ -110,7 +110,7 @@
                     <!--<a href=""> <img src="assets/images/stackoverflow" alt="stackoverflow"></a> -->
                     <a href="skype:edu.m.ruiz?add"><?php include 'assets/images/skype.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/skype" alt="skype"></a> -->
-                    <a href="mailto:contato@eduruiz.com.br"><?php include 'assets/images/email.svg'; ?></a>
+                    <a href="mailto:contato@duruiz.com.br"><?php include 'assets/images/email.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/email" alt="email"></a> -->
                     <a href="tel:+5511981426373"><?php include 'assets/images/tel.svg'; ?></a>
                     <!--<a href=""> <img src="assets/images/tel" alt="telefone"></a> -->

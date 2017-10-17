@@ -307,6 +307,7 @@ body {
     @extend .oquesei;
     h1 { color: $orange; }
     img {
+        max-width: 85px;
         margin-left: 103px;
 
         @include breakpoint(papa-bear) {

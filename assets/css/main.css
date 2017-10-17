@@ -1046,6 +1046,7 @@ body {
 .oqueuso h1 {
   color: #fe4d21; }
 .oqueuso img {
+  max-width: 85px;
   margin-left: 103px; }
   @media (max-width: 959px) {
     .oqueuso img {
