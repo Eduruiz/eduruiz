@@ -42,27 +42,6 @@
         </h1>
         <span class="tricky"></span>
 
-        <section class="portfolio">
-            <div class="container">
-                <a href="http://www.santoguarana.com.br" target="_blank" class="job">
-                  <figure><img src="assets/images/jobs/santo.jpg" alt="índios nativos valvulados"></figure>  
-                  <figcaption>santo guaraná</figcaption>
-                </a>
-                <a href="http://www.indiosnativosvalvulados.com.br" target="_blank" class="job">
-                  <figure><img src="assets/images/jobs/indios.jpg" alt="índios nativos valvulados"></figure>  
-                  <figcaption>índios nativos valvulados</figcaption>
-                </a>
-                <a href="http://www.pepperbox.com.br" target="_blank" class="job">
-                  <figure><img src="assets/images/jobs/pepper.jpg" alt="pepper box"></figure>  
-                  <figcaption>pepper box</figcaption>
-                </a>
-                <a href="http://www.pinusbr.com.br" target="_blank" class="job">
-                  <figure><img src="assets/images/jobs/pinusbr.jpg" alt="pepper box"></figure>  
-                  <figcaption>pinus laboratório</figcaption>
-                </a>
-            </div>
-        </section>
-        
         <div class="white">
             <div class="container">
                 <section class="oquesei">
